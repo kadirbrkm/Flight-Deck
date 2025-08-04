@@ -141,12 +141,6 @@ The application includes a built-in database of major airports:
 - **Font Awesome**: Professional icons
 - **OpenStreetMap**: Map tiles
 
-### Browser Compatibility
-- Chrome 60+
-- Firefox 55+
-- Safari 12+
-- Edge 79+
-
 ### Performance
 - **Fast Loading**: Minimal dependencies
 - **Efficient Rendering**: Optimized DOM manipulation
@@ -194,17 +188,6 @@ The application includes a built-in database of major airports:
 - Try clearing all filters and reapplying
 - Check filter criteria spelling
 
-## 🤝 Contributing
-
-This is a standalone web application. To modify:
-1. Edit the HTML structure in `index.html`
-2. Modify styles in `style.css`
-3. Update functionality in `script.js`
-4. Test in multiple browsers
-
-## 📝 License
-
-This project is open source and available under the MIT License.
 
 ## 🛫 Happy Flying!
 
