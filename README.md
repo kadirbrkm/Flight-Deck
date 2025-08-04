@@ -2,7 +2,7 @@
 
 A comprehensive web application designed specifically for pilots to log, track, and visualize their flight history. The platform features an interactive world map, detailed flight logging, advanced filtering, and export capabilities.
 
-![Flight Logger Screenshot](https://via.placeholder.com/800x400/667eea/ffffff?text=Pilot+Flight+Logger)
+DEMO: https://flightdeckk.netlify.app/
 
 ## 🌟 Features
 
